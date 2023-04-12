@@ -1,0 +1,11 @@
+invoice_id, date, customer_id, product_id, description, quantity, unit_price, discount, tax, total_price
+INV-0001, 2023-04-01, CUST-001, PROD-001, Office Chair, 2, 150.00, 0, 22.5, 322.50
+INV-0002, 2023-04-02, CUST-002, PROD-002, Laptop Stand, 1, 80.00, 5, 14.25, 89.25
+INV-0003, 2023-04-03, CUST-003, PROD-003, Desk Lamp, 4, 25.00, 0, 15, 115.00
+INV-0004, 2023-04-04, CUST-001, PROD-004, Wireless Keyboard, 1, 50.00, 10, 6, 56.00
+INV-0005, 2023-04-05, CUST-004, PROD-005, Monitor, 3, 200.00, 0, 90, 690.00
+INV-0006, 2023-04-06, CUST-003, PROD-006, Mouse Pad, 5, 10.00, 5, 7.25, 57.25
+INV-0007, 2023-04-07, CUST-002, PROD-001, Office Chair, 1, 150.00, 0, 11.25, 161.25
+INV-0008, 2023-04-08, CUST-005, PROD-007, USB Hub, 2, 20.00, 10, 3, 43.00
+INV-0009, 2023-04-09, CUST-004, PROD-008, External Hard Drive, 1, 100.00, 0, 15, 115.00
+INV-0010, 2023-04-10, CUST-001, PROD-009, Printer, 1, 250.00, 5, 36.75, 286.75
